@@ -1,11 +1,19 @@
+Este es un proyecto para practicar mis habildiades en Python, su sintaxis y bibliotecas propias del lenguaje y externas.
+
+Para feedback o reportar errores o bugs:
+  - [E-Mail](pdfargento@gmail.com)
+  - [Instagram](https://www.instagram.com/pdf_argento/)
+  - Twitter/X
+  - [Donaciones](https://cafecito.app/pdf_argento)
+
 La app tiene dos funciones principales que son convertir archivos de texto en varios formatos a formato PDF, la segunda funcion es tomar varios archivos PDF y unirlos en uno solo
 
 Uso dos bibliotecas que son:
-  - PuMuPDF: https://github.com/pymupdf/PyMuPDF
+  - [PuMuPDF:](https://github.com/pymupdf/PyMuPDF)
       Es la biblioteca principal sobre la que esta formada el proyecto. por ahora uso la funcion de convertir texto e imagenes a PDF
       pero la biblioteca tiene muchas funciones que implementare con el tiempol
     
-  - PyPDF: https://github.com/py-pdf/pypdf
+  - [PyPDF:](https://github.com/py-pdf/pypdf)
       En menor medida uso esta biblioteca. Por ahora solo uso la funcion de unir PDF pero tambien tiene muchas funcionalides para editar estos archivos
 
 Con el tiempo ire agregando las siguientes funcionalidades:
